@@ -7,17 +7,20 @@ I am a passionate computer science student with a focus on data science and a ke
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, R, JavaScript, C, C++
-- **Web Development:** HTML, CSS, Talwind, ReactJS
-- **Databases:** SQL
+- **Web Development:** HTML, CSS, Tailwind, ReactJS
+- **Databases:** SQL, Vector Databases (FAISS)
 - **Data Science:** Pandas, NumPy, R libraries
+- **Machine Learning:** Scikit-learn, PyTorch, R
+- **Deep Learning:** Generative AI, RAG (Retrieval-Augmented Generation)
+- **LLM Tools:** LangChain, Google Gemini, LLaMA Index
 - **Operating Systems:** Linux
 
 ## 🚀 Current Focus
 
-- Exploring the possibilities of generative AI
-- Diving deeper into R programming
-- Enhancing skills in data analysis and visualization
-
+- Building RAG-based web applications using LangChain and FAISS
+- Exploring vector embeddings and LLM APIs like Google Gemini
+- Diving deeper into R programming and data visualization
+- Enhancing knowledge in OCR technologies and generative AI
 
 ## 📊 GitHub Stats
 
